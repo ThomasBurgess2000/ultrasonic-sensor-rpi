@@ -1,7 +1,8 @@
 Follow this wiring diagram for the HC-SR04 ultrasonic sensor: ![image](https://github.com/user-attachments/assets/eb05a3ee-d7cf-466b-8b87-67265901112a)
 
 
-I used 1KΩ and 2KΩ resistors instead of 330Ω and 470Ω (because it's what I had on hand).
+I used 1KΩ and 2KΩ resistors instead of 330Ω and 470Ω (because it's what I had on hand). Here's what that looked like: ![image](https://github.com/user-attachments/assets/179849fe-6656-4c4d-b612-6a5da3788759)
+
 
 Test the wiring with the [Python script](test.py).
 
